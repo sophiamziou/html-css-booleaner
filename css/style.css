@@ -1,0 +1,39 @@
+.background-pattern {
+    width:auto;
+    height: 80px;
+    background-image: url("../img/pattern.png");
+    background-size: cover;
+    background-size: 300px;
+    background-repeat: repeat-x;
+    background-color: rgb(78,160,255);    
+}
+
+.font-title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+
+}
+.font {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+ table {
+    width: 1000px;
+    height: 180px;
+    border-spacing:0px;
+ }
+
+.th {
+    text-align: left;
+    width: 25%;
+}
+
+.lightblue-row {
+    background-color: rgb(177,229,242);
+}
+
+.blue-row {
+    background-color: rgb(32,169,229);
+    color: white;
+}
