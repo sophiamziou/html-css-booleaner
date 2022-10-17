@@ -8,15 +8,27 @@
     background-color: rgb(78,160,255);    
 }
 
-.font-title {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 30px;
+.logo {
+    width: 200px;
+    height: 100px;
+    background-size: contain;
+    padding-left: 10px;
+}
 
+.grey-text {
+    font-size: 17px;
+    color: rgb(160,160,160);
 }
-.font {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 30px;
+
+#blue-text {
+    color: rgb(69,183,233);
 }
+
+.picturetext {
+    font-size: 12px;
+    margin-block: 0px;
+}
+/* setting table */
 
  table {
     width: 1000px;
@@ -36,4 +48,38 @@
 .blue-row {
     background-color: rgb(32,169,229);
     color: white;
+}
+
+/* footer setting */
+.footer {
+    width: 250px;
+    height: 170px;
+    background-size: contain;
+    margin-block: 10px;
+}
+
+.img1 {
+    background-image: url("../img/monitor.jpg");
+}
+
+.img2 {
+    background-image: url("../img/graph.jpg");
+}
+
+.text-footer {
+    color: white;
+    font-weight: 800;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-block: 0px;
+}
+
+h4 {
+    color: rgb(141, 141, 141);
+    margin-block: 5px;
+}
+
+.highlight {
+    background-color: yellow;
 }
