@@ -14,7 +14,7 @@
     background-size: contain;
     padding-left: 10px;
 }
-
+/* text under the title */
 .grey-text {
     font-size: 17px;
     color: rgb(160,160,160);
@@ -24,6 +24,7 @@
     color: rgb(69,183,233);
 }
 
+/* text under the pictures */
 .picturetext {
     font-size: 12px;
     margin-block: 0px;
@@ -79,6 +80,8 @@ h4 {
     color: rgb(141, 141, 141);
     margin-block: 5px;
 }
+
+/* highlited main text */
 
 .highlight {
     background-color: yellow;
