@@ -14,10 +14,16 @@
     background-size: contain;
     padding-left: 10px;
 }
+
+h1 {
+    margin-bottom: 0px;
+}
+
 /* text under the title */
 .grey-text {
     font-size: 17px;
     color: rgb(160,160,160);
+    margin-top: 0px;
 }
 
 #blue-text {
@@ -85,4 +91,9 @@ h4 {
 
 .highlight {
     background-color: yellow;
+}
+
+/* list padding */
+ul {
+    padding-left: 12px;
 }
