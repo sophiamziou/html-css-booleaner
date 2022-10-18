@@ -1,11 +1,13 @@
 .background-pattern {
-    width:auto;
-    height: 80px;
+    height: 90px;
     background-image: url("../img/pattern.png");
-    background-size: cover;
-    background-size: 300px;
-    background-repeat: repeat-x;
+    background-size: 30%;
     background-color: rgb(78,160,255);    
+}
+
+.container{
+    margin: 0 auto;
+    width: 80%;
 }
 
 .logo {
@@ -38,8 +40,6 @@ h1 {
 /* setting table */
 
  table {
-    width: 1000px;
-    height: 180px;
     border-spacing:0px;
  }
 
